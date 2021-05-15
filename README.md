@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on various projects on Java(GUI), C Programming.
 - 📫 You can reach me by my email address 'aritrapalit14@gmail.com' on by any of the means attached below.
 
+[![Spotify](https://aritra-palit.vercel.app/api/spotify)](https://open.spotify.com/user/suqbsnubtndqfz450fh0ned0c)
+
 [![Aritra's github stats](https://github-readme-stats.vercel.app/api?username=Aritra-Palit&theme=nightowl)](https://github.com/Aritra-Palit?tab=repositories)
 
 <a href="https://github.com/Aritra-Palit">
