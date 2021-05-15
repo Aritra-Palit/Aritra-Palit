@@ -14,16 +14,16 @@
 <br/>
 
 <a href="https://twitter.com/PalitAritra">
-  <img align="left" alt="Aritra Palit | Twitter " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Aritra Palit | Twitter " width="22px" src="https://img.icons8.com/color/480/000000/twitter--v1.png"/>
 </a>
 <a href="https://t.me/Major_Mike_Tango">
-  <img align="left" alt="Aritra's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Aritra's Telegram" width="22px" src="https://img.icons8.com/color/480/000000/telegram-app--v1.png"/>
 </a>
 <a href="https://www.instagram.com/abstract_hypertext/">
-  <img align="left" alt="Aritra's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Aritra's Instagram" width="22px" src="https://img.icons8.com/cute-clipart/480/000000/instagram-new.png"/>
 </a>
 <a href="https://www.youtube.com/channel/UCsAeRWHbBLNyxW8mLgWpXlw">
-  <img align="left" alt="Aritra's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Aritra's Youtube" width="22px" src="https://img.icons8.com/color/480/000000/youtube-play.png"/>
 </a>  
 <a href="https://www.facebook.com/aritra.palit.14/">
   <img align="left" alt="Aritra's Facebook" width="22px" src="https://img.icons8.com/color/480/000000/facebook-circled--v5.png" />
