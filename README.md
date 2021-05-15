@@ -30,5 +30,8 @@
 </a>
 
 <br />
+### Spotify Playing 🎧
+
+[<img src="https://novatorem-aritra-palit.vercel.app/api/spotify-playing" alt="Aritra Spotify Playing" width="350" />](https://open.spotify.com/user/suqbsnubtndqfz450fh0ned0c)
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
