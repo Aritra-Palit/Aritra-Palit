@@ -26,7 +26,7 @@
   <img align="left" alt="Aritra's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>  
 <a href="https://www.facebook.com/aritra.palit.14/">
-  <img align="left" alt="Aritra's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Aritra's Facebook" width="22px" src="https://img.icons8.com/color/480/000000/facebook-circled--v5.png" />
 </a>
 
 <br />
