@@ -34,6 +34,6 @@
 
 ### Spotify Playing 🎧
 
-[<img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=suqbsnubtndqfz450fh0ned0c&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=suqbsnubtndqfz450fh0ned0c&cover_image=true&theme=novatorem)]]" alt="Aritra Spotify Playing" width="350" />](https://open.spotify.com/user/suqbsnubtndqfz450fh0ned0c)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=suqbsnubtndqfz450fh0ned0c&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=suqbsnubtndqfz450fh0ned0c&cover_image=true&theme=default)]]
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
