@@ -2,13 +2,13 @@
 - 👀 I’m interested in developing programs, GUI based softwares.
 - 🌱 I’m currently a student of BCA 1st year.
 - 💞️ I’m looking to collaborate on various projects on Java(GUI), C Programming.
-- 📫 You can reach me by my email address 'aritrapalit14@gmail.com'.
+- 📫 You can reach me by my email address 'aritrapalit14@gmail.com' on by any of the means attached below.
 
-[![Aritra's github stats](https://github-readme-stats.vercel.app/api?username=Aritra-Palit&theme=nightowl)](https://github.com/sarthakroy2002?tab=repositories)
+[![Aritra's github stats](https://github-readme-stats.vercel.app/api?username=Aritra-Palit&theme=nightowl)](https://github.com/Aritra-Palit?tab=repositories)
 
 <a href="https://github.com/Aritra-Palit">
  
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=Aritra-Palit&layout=compact&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=Aritra-Palit&layout=compact&theme=gruvbox" />
 </a>
 
 <br/>
