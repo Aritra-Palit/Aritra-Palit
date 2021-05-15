@@ -23,8 +23,11 @@
   <img align="left" alt="Aritra's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCsAeRWHbBLNyxW8mLgWpXlw">
-  <img align="left" alt="Aritra Palit - YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Aritra's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>  
+<a href="https://www.facebook.com/aritra.palit.14/">
+  <img align="left" alt="Aritra's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 <br />
 
