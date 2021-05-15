@@ -34,7 +34,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-github-profile.vercel.app/api/view?uid=suqbsnubtndqfz450fh0ned0c&cover_image=true&theme=default" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=suqbsnubtndqfz450fh0ned0c&cover_image=true&theme=default" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
