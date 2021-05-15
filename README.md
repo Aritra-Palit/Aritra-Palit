@@ -6,7 +6,7 @@
 
 <a href="https://github.com/Aritra-Palit">
  
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=Aritra-Palit&layout=compact&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=Aritra-Palit&layout=compact&theme=nightowl&langs_count=1" />
 </a>
 
 <br/>
