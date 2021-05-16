@@ -14,7 +14,7 @@
 <br/>
 
 <a href="https://twitter.com/PalitAritra">
-  <img align="left" alt="Aritra Palit | Twitter " width="22px" src="https://img.icons8.com/color/480/000000/twitter--v1.png"/>
+  <img align="left" alt="Aritra's Twitter " width="22px" src="https://img.icons8.com/color/480/000000/twitter--v1.png"/>
 </a>
 <a href="https://t.me/Major_Mike_Tango">
   <img align="left" alt="Aritra's Telegram" width="22px" src="https://img.icons8.com/color/480/000000/telegram-app--v1.png"/>
@@ -27,6 +27,9 @@
 </a>  
 <a href="https://www.facebook.com/aritra.palit.14/">
   <img align="left" alt="Aritra's Facebook" width="22px" src="https://img.icons8.com/color/480/000000/facebook-circled--v5.png" />
+</a>
+<a href="https://tinder.com/@major_mike_tango">
+  <img align="left" alt="Aritra's Tinder" width="22px" src="https://img.icons8.com/color/100/000000/--tinder.png"/>
 </a>
 
 <br />
