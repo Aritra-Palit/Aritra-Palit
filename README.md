@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aritra-Palit
 - 👀 I’m interested in developing programs, GUI based softwares.
 - 🌱 I’m currently a student of BCA 2nd year.
-- 💞️ I’m looking to collaborate on various projects on Java(GUI), C Programming.
+- 💞️ I’m looking to collaborate on various projects on Java(GUI), C Programming and Python Programming.
 - 📫 You can reach me by my email address 'aritrapalit14@gmail.com' on by any of the means attached below.
 
 [![Aritra's github stats](https://github-readme-stats.vercel.app/api?username=Aritra-Palit&theme=nightowl)](https://github.com/Aritra-Palit?tab=repositories)
