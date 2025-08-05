@@ -86,3 +86,5 @@ I’m always excited to collaborate on new projects, internships, or freelance w
 Feel free to reach out!
 
 ---
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra-Palit&layout=compact
