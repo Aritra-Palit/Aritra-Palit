@@ -87,4 +87,6 @@ Feel free to reach out!
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra-Palit&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra-Palit&layout=compact" alt="Top Langs" />
+</div>
