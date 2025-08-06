@@ -78,6 +78,13 @@ Leadership, Teamwork, Communication, Adaptability, Willingness to Learn
 - 🔗 SPOC – Between MCA Students and ACCD  
 
 ---
+## 📊 My Top Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra-Palit&layout=compact" alt="Top Langs" />
+</div>
+
+---
 
 ## 📈 Let's Connect
 
@@ -86,7 +93,3 @@ I’m always excited to collaborate on new projects, internships, or freelance w
 Feel free to reach out!
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aritra-Palit&layout=compact" alt="Top Langs" />
-</div>
