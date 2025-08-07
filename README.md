@@ -88,7 +88,7 @@ Leadership, Teamwork, Communication, Adaptability, Willingness to Learn
 
 ## 📈 Let's Connect
 
-I’m always excited to collaborate on new projects, internships, or freelance work in web development, data science, or full-stack development.
+I’m always excited to collaborate on new projects, or freelance work in web development, data science, or full-stack development.
 
 Feel free to reach out!
 
