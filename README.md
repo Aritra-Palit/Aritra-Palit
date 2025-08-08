@@ -15,7 +15,7 @@ I'm a passionate and detail-oriented developer with a Master’s degree in Compu
 ## 🛠️ Skills
 
 **Languages & Tools:**  
-Python, Java, C, JavaScript, SQL, .NET, Flask, ASP.NET, HTML, CSS, Git, GitHub, Wix Velo, Canva
+Python, Java, C, JavaScript, SQL, .NET, Flask, ASP.NET, HTML, CSS, Git, GitHub, Wix Velo, Canva, C#
 
 **Databases:**  
 Oracle DB, MS SQL Server, MySQL
