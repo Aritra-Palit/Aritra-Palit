@@ -21,7 +21,7 @@ Python, Java, C, JavaScript, SQL, .NET, Flask, ASP.NET, HTML, CSS, Git, GitHub, 
 Oracle DB, MS SQL Server, MySQL
 
 **Concepts:**  
-Data Structures, Networking, Network Security, Operating Systems
+Data Structures, Networking, Network Security, Operating Systems, MBC Structure for websites
 
 **Soft Skills:**  
 Leadership, Teamwork, Communication, Adaptability, Willingness to Learn
